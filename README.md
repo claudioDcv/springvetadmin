@@ -6,6 +6,7 @@ vetadmin spring
   - Apache Maven 3.5.0
   - apache-tomcat-9.0.0.M26
   - Eclipse Oxygen Release (4.7.0)
+  - debian 8
   
  - Instrucciones
   - agregar java a variables de ambiente
