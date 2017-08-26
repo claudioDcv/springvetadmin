@@ -28,7 +28,6 @@ vetadmin spring
 
 
 ```sh
-PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
 export PATH=/Users/claudio/src/JAVA/apache-maven-3.5.0/bin:$PATH
 
