@@ -5,6 +5,7 @@ vetadmin spring
   - JAVA 1.8.0_131
   - Apache Maven 3.5.0
   - apache-tomcat-9.0.0.M26
+  - Eclipse Oxygen Release (4.7.0)
   
  - Instrucciones
   - agregar java a variables de ambiente
@@ -12,6 +13,19 @@ vetadmin spring
   - agregar mvn a las variables de ambiente
   - agregar apache tomcat a las variables de ambiente
 
+- Configurar Tomcat en Eclipse
+
+  - Properties (de la app)
+  - Runtime
+  - New
+  - seleccionar apache tomcat 9
+  - Next
+  - Browse
+  - seleccionar directorio donde se encuentra tomcat, en este ejemplo seria `/Users/claudio/src/JAVA/apache-tomcat-9.0.0.M26`
+  - Abrir
+  - Finish
+  - Apply and Close
+ 
 ```sh
 PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
