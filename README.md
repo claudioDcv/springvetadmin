@@ -14,18 +14,16 @@ vetadmin spring
   - agregar apache tomcat a las variables de ambiente
 
 - Configurar Tomcat en Eclipse
-  - Properties (de la app)
-  
-  - ir a tab `Runtime`
-  
-  - clic en `New`
-  - seleccionar apache tomcat 9
-  - clic en `Next`
-  - clic en `Browse`
-  - seleccionar directorio donde se encuentra tomcat, en este ejemplo seria `/Users/claudio/src/JAVA/apache-tomcat-9.0.0.M26`
-  - clic en `Abrir`
-  - clic en `Finish`
-  - clic `Apply and Close`
+	- Properties (de la app)
+	- ir a tab `Runtime`
+	- clic en `New`
+	- seleccionar apache tomcat 9
+	- clic en `Next`
+	- clic en `Browse`
+	- seleccionar directorio donde se encuentra tomcat, en este ejemplo seria `/Users/claudio/src/JAVA/apache-tomcat-9.0.0.M26`
+	- clic en `Abrir`
+	- clic en `Finish`
+	- clic `Apply and Close`
 
 
 ```sh
