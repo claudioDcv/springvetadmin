@@ -8,11 +8,11 @@ vetadmin spring
   - Eclipse Oxygen Release (4.7.0)
   - debian 8
   
- - Instrucciones
-  - agregar java a variables de ambiente
-  - definir JAVA_HOME
-  - agregar mvn a las variables de ambiente
-  - agregar apache tomcat a las variables de ambiente
+- Instrucciones
+	- agregar java a variables de ambiente
+	- definir JAVA_HOME
+	- agregar mvn a las variables de ambiente
+	- agregar apache tomcat a las variables de ambiente
 
 - Configurar Tomcat en Eclipse
 	- Properties (de la app)
