@@ -16,16 +16,16 @@ vetadmin spring
 - Configurar Tomcat en Eclipse
 
   - Properties (de la app)
-  - Runtime
-  - New
-  - seleccionar apache tomcat 9
-  - Next
-  - Browse
+  - ir a tab `Runtime`
+  - clic en `New`
+  - seleccionar apache tomcat 9
+  - clic en `Next`
+  - clic en `Browse`
   - seleccionar directorio donde se encuentra tomcat, en este ejemplo seria `/Users/claudio/src/JAVA/apache-tomcat-9.0.0.M26`
-  - Abrir
-  - Finish
-  - Apply and Close
- 
+  - clic en `Abrir`
+  - clic en `Finish`
+  - clic `Apply and Close`
+
 ```sh
 PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
 export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
