@@ -14,7 +14,6 @@ vetadmin spring
   - agregar apache tomcat a las variables de ambiente
 
 - Configurar Tomcat en Eclipse
-
   - Properties (de la app)
   - ir a tab `Runtime`
   - clic en `New`
