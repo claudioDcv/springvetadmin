@@ -6,6 +6,7 @@ vetadmin spring
   - Apache Maven 3.5.0
   - apache-tomcat-9.0.0.M26
   
+ - Instrucciones
   - agregar java a variables de ambiente
   - definir JAVA_HOME
   - agregar mvn a las variables de ambiente
