@@ -15,7 +15,9 @@ vetadmin spring
 
 - Configurar Tomcat en Eclipse
   - Properties (de la app)
+  
   - ir a tab `Runtime`
+  
   - clic en `New`
   - seleccionar apache tomcat 9
   - clic en `Next`
@@ -24,6 +26,7 @@ vetadmin spring
   - clic en `Abrir`
   - clic en `Finish`
   - clic `Apply and Close`
+
 
 ```sh
 PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
